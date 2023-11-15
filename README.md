@@ -1,4 +1,4 @@
-### Hi there! I'm Emmy-Akintz 👋
+<h1 align="center">Hi there! I'm Emmy-Akintz 👋</h1>
 
 ### I love to build fully functioning and client friendly websites.
 
