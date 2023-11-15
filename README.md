@@ -9,12 +9,13 @@
 - 👨‍💻 All of my projects are available at [https://emmy-akintz.netlify.app/](https://emmy-akintz.netlify.app/)
 
 Connect with me: 
-[](https://twitter.com/emmy_ak7)
-https://web.facebook.com/ayomide.akintan.357/
-https://www.instagram.com/emmy_akintz/
-https://www.linkedin.com/in/ayomide-akintan-3a10a028b/
-http://t.me/EmmyAkints
-http://wa.me/+2348167659926
+[Twitter](https://twitter.com/emmy_ak7)
+[Facebook](https://web.facebook.com/ayomide.akintan.357/)
+[Instagram](https://www.instagram.com/emmy_akintz/)
+[LinkedIn](https://www.linkedin.com/in/ayomide-akintan-3a10a028b/)
+[Telegram](http://t.me/EmmyAkints)
+[Whatsapp](http://wa.me/+2348167659926)
+[Medium](https://medium.com/@emzyakints2005)
 
 <!--
 **Emmy-Akintz/Emmy-Akintz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
