@@ -2,7 +2,7 @@
 
 ### I love to build fully functioning and client friendly websites.
 
-- 🔭 I’m currently working on Websites and projects
+- 🔭 I’m currently working on [Websites and projects](https://github.com/Emmy-Akintz/larry-pat-foods)
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: emzyakints2005@gmail.com
