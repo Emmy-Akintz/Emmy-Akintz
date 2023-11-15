@@ -14,9 +14,6 @@
 <a href="https://www.instagram.com/emmy_akintz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmy_akintz" height="30" width="40" /></a>
 <a href="https://medium.com/@emzyakints2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emzyakints2005" height="30" width="40" /></a>
 <a href="https://web.facebook.com/ayomide.akintan.357/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayomide.akintan.357" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayomide-akintan-3a10a028b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ayomide-akintan-3a10a028b" height="30" width="40" /></a>
-<a href="http://t.me/EmmyAkints" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="EmmyAkints" height="30" width="40" /></a>
-<a href="http://wa.me/+2348167659926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Emmy-Akintz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
