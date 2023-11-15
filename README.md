@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://emmy-akintz.netlify.app/](https://emmy-akintz.netlify.app/)
 
 Connect with me: 
-https://twitter.com/emmy_ak7
+[](https://twitter.com/emmy_ak7)
 https://web.facebook.com/ayomide.akintan.357/
 https://www.instagram.com/emmy_akintz/
 https://www.linkedin.com/in/ayomide-akintan-3a10a028b/
