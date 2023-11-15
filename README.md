@@ -9,6 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://emmy-akintz.netlify.app/](https://emmy-akintz.netlify.app/)
 
 Connect with me: 
+https://twitter.com/emmy_ak7
 
 <!--
 **Emmy-Akintz/Emmy-Akintz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
