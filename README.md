@@ -10,6 +10,11 @@
 
 Connect with me: 
 https://twitter.com/emmy_ak7
+https://web.facebook.com/ayomide.akintan.357/
+https://www.instagram.com/emmy_akintz/
+https://www.linkedin.com/in/ayomide-akintan-3a10a028b/
+http://t.me/EmmyAkints
+http://wa.me/+2348167659926
 
 <!--
 **Emmy-Akintz/Emmy-Akintz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
