@@ -8,6 +8,8 @@
 - 📫 How to reach me: emzyakints2005@gmail.com
 - 👨‍💻 All of my projects are available at [https://emmy-akintz.netlify.app/](https://emmy-akintz.netlify.app/)
 
+Connect with me: 
+
 <!--
 **Emmy-Akintz/Emmy-Akintz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
