@@ -2,7 +2,7 @@
 <h3 align="center">I love to build fully functioning and client friendly websites.</h3>
 <img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
-- 🔭 I’m currently working on [Larry-Pat Foods](https://github.com/Emmy-Akintz/larry-pat-foods)
+- 🔭 I’m currently working on [Larry-Pat Foods](https://github.com/Emmy-Akintz/larry-pat-foods) and it's [backend](https://github.com/Emmy-Akintz/larry-pat-server-side)
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: **<emzyakints2005@gmail.com>**
