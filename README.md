@@ -8,7 +8,7 @@
 - 📫 How to reach me: **<emzyakints2005@gmail.com>**
 - 👨‍💻 All of my projects are available at [https://emmy-akintz.netlify.app/](https://emmy-akintz.netlify.app/)
 
-<br><br>
+<br>
 <a href="https://github.com/Emmy-Akintz/">
    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=emmy-akintz&style=flat-square&label=Profile+Views&color=0891b2" />
 </a>
