@@ -10,7 +10,7 @@
 
 <br><br><br>
 <a href="https://github.com/Emmy-Akintz/">
-   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=emmy_akintz&style=flat-square&label=Profile+Views&color=0891b2" />
+   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=emmy-akintz&style=flat-square&label=Profile+Views&color=0891b2" />
 </a>
 
 <h3 align="left">Connect with me:</h3>
