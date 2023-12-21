@@ -8,6 +8,11 @@
 - 📫 How to reach me: **<emzyakints2005@gmail.com>**
 - 👨‍💻 All of my projects are available at [https://emmy-akintz.netlify.app/](https://emmy-akintz.netlify.app/)
 
+<br><br><br>
+<a href="https://github.com/Emmy-Akintz/">
+   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=emmy_akintz&style=flat-square&label=Profile+Views&color=0891b2" />
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/emmy_ak7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emmy-ak7" height="30" width="40" /></a>
