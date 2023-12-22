@@ -68,3 +68,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+<h2 align="left">🔥Statistics</h2>
+<p align="middle">
+<a href="https://github.com/emmy-akintz">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emmy-akintz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</a>
