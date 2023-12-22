@@ -37,6 +37,7 @@
     <img src="assets/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="assets/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="assets/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/>&nbsp;
+    <img src="assets/icons/CPP.svg" alt="C++" width="40" height="40"/>&nbsp;
     <img src="assets/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
     <img src="assets/icons/Github-Dark.svg" alt="Github" width="40" height="40"/>&nbsp;
     <img src="assets/icons/Git.svg" alt="Git" width="40" height="40"/>&nbsp;
