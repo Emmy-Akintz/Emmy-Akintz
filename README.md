@@ -32,6 +32,7 @@
     <img src="assets/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="40" height="40"/>&nbsp;
     <img src="assets/icons/NodeJS-Dark.svg" alt="Node JS" width="40" height="40"/>&nbsp;
     <img src="assets/icons/React-Dark.svg" alt="React" width="40" height="40"/>&nbsp;
+    <img src="assets/icons/ReactiveX-Dark.svg" alt="ReactNative" width="40" height="40"/>&nbsp;
     <img src="assets/icons/TypeScript.svg" alt="Typescript" width="40" height="40"/>&nbsp;
     <img src="assets/icons/ExpressJS-Dark.svg" alt="ExpressJS" width="40" height="40"/>&nbsp;
     <img src="assets/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
