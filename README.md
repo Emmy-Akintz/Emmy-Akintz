@@ -73,16 +73,7 @@ Here are some ideas to get you started:
 
 <br>
 <h2 align="left">🔥Statistics</h2>
-<!-- <p align="left">
-<a href="https://github.com/emmy-akintz">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emmy-akintz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</a>
 
-<br/>
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmy-akintz&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-  
-# -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmy-akintz&show_icons=true&locale=en&layout=compact" alt="emmy-akintz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmy-akintz&show_icons=true&locale=en" alt="emmy-akintz" /></p>
