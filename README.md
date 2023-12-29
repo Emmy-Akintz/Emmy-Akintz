@@ -83,3 +83,5 @@ Here are some ideas to get you started:
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmy-akintz&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
   
 #
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmy-akintz&" alt="emmy-akintz" /></p>
