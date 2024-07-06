@@ -2,7 +2,8 @@
 <h3 align="center">I love to build fully functioning and client friendly websites.</h3>
 <img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
-- 🔭 I’m currently working on a project with [Toraaah](https://github.com/Toraaah)
+<!--- 🔭 I’m currently working on a project with [Toraaah](https://github.com/Toraaah) -->
+- 🔭 I’m currently working on a project: [real-estate-website](https://github.com/Emmy-Akintz/food-website) with [Imisioluwa](https://github.com/imisi99)
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: **<emzyakints2005@gmail.com>**
