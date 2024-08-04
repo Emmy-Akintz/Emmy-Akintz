@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning MERN stack and react-native
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: **<emzyakints2005@gmail.com>**
-- 👨‍💻 All of my projects are available at [https://emmy-akintz.netlify.app/](https://emmy-akintz.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://emmy-akintz.netlify.app](https://emmy-akintz.netlify.app)
 
 <br>
 <a href="https://github.com/Emmy-Akintz/">
