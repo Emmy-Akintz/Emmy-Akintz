@@ -4,7 +4,7 @@
 
 <!--- 🔭 I’m currently working on a project with [Toraaah](https://github.com/Toraaah) -->
 - 🔭 I’m currently working on a project: [real-estate-website](https://github.com/Emmy-Akintz/food-website) with [Imisioluwa](https://github.com/imisi99)
-- 🌱 I’m currently learning MERN stack and react-native
+- 🌱 I’m currently learning react-native (expo)...
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: **<emzyakints2005@gmail.com>**
 - 👨‍💻 All of my projects are available at [https://emmy-akintz.netlify.app](https://emmy-akintz.netlify.app/)
@@ -81,3 +81,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmy-akintz&show_icons=true&locale=en" alt="emmy-akintz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmy-akintz&" alt="emmy-akintz" /></p>
+
+MERN stack, react-native, expo...
