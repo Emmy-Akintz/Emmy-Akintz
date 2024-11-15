@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Emmy-Akintz 👋</h1>
-<h3 align="center">I love to build fully functioning and client friendly websites.</h3>
+<h3 align="center">I love to build fully functioning and client friendly websites and cross-platform mobile apps.</h3>
 <img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
 <!--- 🔭 I’m currently working on a project with [Toraaah](https://github.com/Toraaah) -->
