@@ -50,6 +50,7 @@
     <img src="assets/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/>&nbsp;
     <img src="assets/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
    <img src="assets/icons/NextJS-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
+   <img src="assets/icons/Supabase-Light.svg" alt="Python" width="40" height="40"/>&nbsp;
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ay7ot&show_icons=true&locale=en&layout=compact" alt="ay7ot" /></p> -->
