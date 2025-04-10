@@ -4,7 +4,7 @@
 
 <!--- 🔭 I’m currently working on a project with [Toraaah](https://github.com/Toraaah) -->
 <!-- - 🔭 I’m currently working on a project: [real-estate-website](https://github.com/Emmy-Akintz/food-website) with [Imisioluwa](https://github.com/imisi99)-->
-- 🌱 I’m currently learning react-native (expo)...
+- 🌱 I’m looking to work on a TO-DO api (to-do list, notes, calendar)
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: **<emzyakints2005@gmail.com>**
 - 👨‍💻 All of my projects are available at [https://emmy-akintz.netlify.app](https://emmy-akintz.netlify.app/)
